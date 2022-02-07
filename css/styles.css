@@ -11,6 +11,20 @@ body {
     justify-content: center;
 }
 
+.exp-title, .exp-place, .exp-time, .exp-city{
+    margin-bottom: 0;
+}
+
+.exp-title{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.exp-time, .exp-city{
+    font-size: 14px;
+    color: #444;
+}
+
 .skills,
 .skills .skill,
 .skills .skill .skill-title,
