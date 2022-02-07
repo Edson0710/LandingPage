@@ -1,0 +1,15 @@
+body{ 
+    font-family: monaco, Consolas, "Lucida Console", monospace; 
+}
+
+.banner{
+    background-color: black;
+    color: white;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.banner div{
+}
