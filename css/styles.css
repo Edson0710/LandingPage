@@ -28,6 +28,10 @@ body {
     color: black;
 }
 
+#my-services .row h1{
+    color: #444
+}
+
 .exp-title, .exp-place, .exp-time, .exp-city{
     margin-bottom: 0;
 }
@@ -119,5 +123,6 @@ body {
 
 #projects a{
     color: #444;
-    
 }
+
+
