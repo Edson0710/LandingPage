@@ -19,12 +19,12 @@ body {
     font-size: 1.2em;
 }
 
-i{
+#about-me i{
     font-size: 2em;
     color: #444;
 }
 
-i:hover{
+#about-me i:hover{
     color: black;
 }
 
@@ -106,4 +106,18 @@ i:hover{
     max-width: 600px;
     padding: 0 15px;
     margin: 0 auto;
+}
+
+#projects i{
+    font-size: 1.3em;
+    color: #444;
+}
+
+#projects i:hover{
+    color: black;
+}
+
+#projects a{
+    color: #444;
+    
 }
