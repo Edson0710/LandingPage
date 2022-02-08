@@ -11,6 +11,23 @@ body {
     justify-content: center;
 }
 
+#img-profile{
+    max-width: 200px;
+}
+
+#about-me p{
+    font-size: 1.2em;
+}
+
+i{
+    font-size: 2em;
+    color: #444;
+}
+
+i:hover{
+    color: black;
+}
+
 .exp-title, .exp-place, .exp-time, .exp-city{
     margin-bottom: 0;
 }
